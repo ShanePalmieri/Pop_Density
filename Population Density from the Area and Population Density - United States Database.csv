@@ -1,0 +1,34 @@
+"Title:","Population Density from the Area and Population Density - United States Database"
+"SubTitle:","State - Area Reference Year: 2019"
+"Time:","2000 - 2019"
+"Unit of Measure:","Persons/Sq Mile","Persons/Sq Mile","Persons/Sq Mile","Persons/Sq Mile","Persons/Sq Mile","Persons/Sq Mile","Persons/Sq Mile","Persons/Sq Mile"
+"Citation:","United States Census Bureau (2013-01-04). Area and Population Density - United States: Population Density | California, Florida, Georgia, Illinois, New York, Ohio, Pennsylvania, Texas | 2019, 2000 - 2019. Data Planet? Statistical Datasets: A SAGE Publishing Resource. (Dataset). Dataset-ID:  001-011-003 doi:https://doi.org/10.6068/DP184682C53A723"
+"ColumnCount:",9
+"RowCount:",20
+
+"Time","California, 2019 (Persons/Sq Mile)","Florida, 2019 (Persons/Sq Mile)","Georgia, 2019 (Persons/Sq Mile)","Illinois, 2019 (Persons/Sq Mile)","New York, 2019 (Persons/Sq Mile)","Ohio, 2019 (Persons/Sq Mile)","Pennsylvania, 2019 (Persons/Sq Mile)","Texas, 2019 (Persons/Sq Mile)"
+"2000",218.118,299.119,142.597,224.046,403.152,278.125,274.587,80.172
+"2001",221.269,304.837,145.879,225.311,405.082,278.933,274.901,81.653
+"2002",223.775,310.922,148.754,226.218,406.629,279.523,275.499,83.099
+"2003",226.18,316.53,151.348,226.935,408.098,280.116,276.197,84.428
+"2004",228.152,323.876,154.439,227.787,409.516,280.591,276.886,85.807
+"2005",229.672,331.492,157.623,228.312,410.215,280.852,277.552,87.276
+"2006",230.852,337.171,161.654,229.097,410.76,281.274,278.736,89.446
+"2007",232.436,340.701,165.183,230.203,412.165,281.967,279.885,91.24
+"2008",234.709,343.422,168.026,231.347,413.12,282.144,280.865,93.026
+"2009",237.156,345.549,170.302,232.562,414.684,282.501,281.723,94.856
+"2010",239.452,351.282,168.269,231.303,411.679,282.42,284.101,96.615
+"2011",241.498,355.154,169.838,231.789,413.788,282.551,284.876,98.16
+"2012",243.489,359.713,171.553,232.06,415.352,282.655,285.352,99.84
+"2013",245.491,364.332,172.784,232.287,416.445,283.334,285.557,101.355
+"2014",247.648,369.929,174.427,232.096,417.009,283.971,285.825,103.208
+"2015",249.708,376.698,176.353,231.635,417.086,284.334,285.747,105.143
+"2016",251.306,384.237,178.492,230.943,416.635,284.746,285.69,106.844
+"2017",252.534,390.763,180.371,230.192,415.705,285.365,285.81,108.302
+"2018",253.196,395.995,182.117,229.188,414.448,285.773,286.107,109.578
+"2019",253.521,400.346,183.959,228.265,412.818,286.086,286.131,110.983
+
+
+
+"Publisher:", "United States Census Bureau"
+"Copyright:", "The data contained in Data Planet(tm): A SAGE Publishing Resource is made available via license agreement with subscribing organizations. Your organization's license may vary from this version."
